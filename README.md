@@ -3,5 +3,5 @@
 - Digital Media System lab (2020.01 ~ )
 
 #### 💻 Interest
-- Codec (HEVC, VVC)
+- Video Codec (HEVC, VVC)
 - Deep Learning for In-Loop Filter, Video Denoising
