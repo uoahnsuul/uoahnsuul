@@ -1,1 +1,7 @@
-# uoahsnuul
+#### 👀 About me 
+- Sejong Univ. (2017.03 ~ )
+- Digital Media System lab (2020.01 ~ )
+
+#### 💻 Interest
+- Codec (HEVC, VVC)
+- Deep Learning for In-Loop Filter, Video Denoising
